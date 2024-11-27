@@ -12,7 +12,7 @@ body {
     width: 800px;
     margin: 0 auto;
     border: 3px solid #2a5d72; /* Ocean blue border */
-    background-color: #e0f7fa; /* Soft light blue */
+    background-color: white; /* Keep the background white */
 }
 a:focus, a:hover {
     font-style: italic;
